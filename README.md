@@ -22,4 +22,4 @@ Principais funções:
 - Informar os dados do cliente e os dados do local da entrega ao finalizar a compra.
 - Finalizar a compra enviando o pedido via Whatsapp.
 
-Clique aqui para <a href="https://letmeask-60888.web.app/" target="_blank">visualizar a aplicação</a>.
+Clique aqui para <a href="https://menufull-anacarolinapas-projects.vercel.app/" target="_blank">visualizar a aplicação</a>.
